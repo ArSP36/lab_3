@@ -1,0 +1,14 @@
+D:\Labs_osnovi_cs\Lab3_os\bin\Debug\net10.0\Lab3_os.exe
+D:\Labs_osnovi_cs\Lab3_os\bin\Debug\net10.0\Lab3_os.deps.json
+D:\Labs_osnovi_cs\Lab3_os\bin\Debug\net10.0\Lab3_os.runtimeconfig.json
+D:\Labs_osnovi_cs\Lab3_os\bin\Debug\net10.0\Lab3_os.dll
+D:\Labs_osnovi_cs\Lab3_os\bin\Debug\net10.0\Lab3_os.pdb
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.AssemblyInfoInputs.cache
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.AssemblyInfo.cs
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.csproj.CoreCompileInputs.cache
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.dll
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\refint\Lab3_os.dll
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.pdb
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\Lab3_os.genruntimeconfig.cache
+D:\Labs_osnovi_cs\Lab3_os\obj\Debug\net10.0\ref\Lab3_os.dll
